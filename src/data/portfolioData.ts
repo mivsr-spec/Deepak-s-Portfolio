@@ -15,7 +15,7 @@ export const ABOUT_DATA = {
   subheading: "Passionate Video Editor & Visual Storyteller",
   bioParagraph1: "Hi, I’m Deepak Rawat, a passionate video editor who turns raw footage into engaging, high quality videos. I specialize in cinematic edits, smooth transitions, color grading, and short-form content. My goal is to create visually appealing videos that tell stories and leave a lasting impact.",
   bioParagraph2: "",
-  headshotUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+  headshotUrl: "https://raw.githubusercontent.com/mivsr-spec/assets/main/photo_6066730409447766227_c.jpg",
   workspaceUrl: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
   highlights: [
     "3+ Years Professional Experience",
