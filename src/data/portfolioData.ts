@@ -96,7 +96,7 @@ export const PROJECTS_DATA: (Project & { customTags?: string[]; categoryDescript
     views: "2.8M",
     turnaroundTime: "1 Day",
     featured: true,
-    instagramUrl: "https://www.instagram.com/reel/DNiuxkJSLvl/?igsh=czNjZ3JncW9kZHZl"
+    instagramUrl: "https://www.instagram.com/reel/DJuBLWpzh75EEfNn0Ru_ZX-DaW-5b6Cird7WFQ0/?igsh=MXZyaW5vaHpiZXlodA=="
   },
   {
     id: "project-lifestyle",
@@ -114,7 +114,7 @@ export const PROJECTS_DATA: (Project & { customTags?: string[]; categoryDescript
     views: "3.2M",
     turnaroundTime: "1 Day",
     featured: true,
-    instagramUrl: "https://www.instagram.com/reel/DNSvry9yVM6/?igsh=MWdrMW9scXRhdnhseA=="
+    instagramUrl: "https://www.instagram.com/reel/DRjRkJdjpFl/?igsh=ZWtnc3g1Zmhza2Jm"
   },
   {
     id: "project-tech",
@@ -132,7 +132,7 @@ export const PROJECTS_DATA: (Project & { customTags?: string[]; categoryDescript
     views: "650K",
     turnaroundTime: "2 Days",
     featured: true,
-    instagramUrl: "https://www.instagram.com/reel/DOa_o4UkjXh/?igsh=MXBheHVsZXJyMHZ3aQ=="
+    instagramUrl: "https://www.instagram.com/reel/DRmVkcMCI1q/?igsh=OGQ4Ym4xazB2c3cz"
   }
 ];
 
