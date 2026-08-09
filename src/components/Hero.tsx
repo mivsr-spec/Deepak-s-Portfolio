@@ -64,25 +64,27 @@ export const Hero: React.FC<HeroProps> = ({ onViewProjects, onGetInTouch }) => {
         </defs>
 
         {/* Ambient Outer Glowing Stroke */}
-        <path
-          d="M 830 0 C 760 80 690 150 668 186 L 746 216 C 650 300 550 380 495 425 C 455 458 430 482 410 500"
-          fill="none"
+        <line
+          x1="850"
+          y1="0"
+          x2="380"
+          y2="500"
           stroke="url(#heroGlowingLineGrad)"
-          strokeWidth="5"
+          strokeWidth="6"
           strokeLinecap="round"
-          strokeLinejoin="round"
           filter="url(#heroNeonGlow)"
-          opacity="0.85"
+          opacity="0.9"
         />
 
         {/* Crisp Inner High-Glow Core Line */}
-        <path
-          d="M 830 0 C 760 80 690 150 668 186 L 746 216 C 650 300 550 380 495 425 C 455 458 430 482 410 500"
-          fill="none"
-          stroke="#ffa07a"
-          strokeWidth="2"
+        <line
+          x1="850"
+          y1="0"
+          x2="380"
+          y2="500"
+          stroke="#ffe4e6"
+          strokeWidth="2.5"
           strokeLinecap="round"
-          strokeLinejoin="round"
           className="opacity-95"
         />
       </svg>
